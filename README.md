@@ -8,6 +8,8 @@ namespace taks_Maria_Manastirli
     {
         public static void Main(string[] args)
         {
+            
+            
             ///С ООП успях да стигна само до тук :(
             ///
 
